@@ -29,7 +29,7 @@ Este repositorio es el proyecto de auditoría de informes de visitas del área d
 - No cambiar archivos que no tengan relación con la tarea.
 
 ## Reglas del proceso
-- El dueño del proceso de auditoría es el jefe de calidad. Ningún cambio de reglas se acepta sin su aprobación.
+- El dueño del proceso de auditoría es el jefe de calidad. Los cambios de reglas los propone cualquiera y los aprueba el jefe de calidad. En el taller, el grupo hace de jefe de calidad al fusionar y lo anota en `traspaso.md`.
 - Un informe sin firma del cliente no se cierra, sin excepciones.
 - Solo se trabaja con los datos de `datos/`, que son inventados. Nunca pegar RUT, correos, nombres de personas ni direcciones en archivos del repositorio, ni siquiera de ejemplo.
 - Toda propuesta de auditoría se corre con `python3 verificar.py` antes de abrir el pull request.
