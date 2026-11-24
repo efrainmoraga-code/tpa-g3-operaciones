@@ -1,0 +1,12 @@
+tecnico_id,nivel,estado,desde,hasta
+T01,senior,activo,,
+T02,semi,activo,,
+T03,senior,activo,,
+T04,semi,licencia,2026-11-02,2026-11-20
+T05,junior,activo,,
+T06,semi,activo,,
+T07,senior,activo,,
+T08,junior,activo,,
+T09,junior,activo,,
+T10,semi,activo,,
+T11,junior,prueba,2026-10-20,
